@@ -1,14 +1,14 @@
-# 👋 Salut ! Je suis [Ton Prénom ou Pseudo]
+# 👋 Salut ! Je suis Magatte Mbathie
 
 🎓 Étudiant en 2e année d’informatique à l'université de Lille 
-🔬 Passionné par la science, la tech et le code  
+🔬 Passionné par la science, l'informatique  
 💡 Curieux, logique, et motivé à apprendre toujours plus
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-- 🔭 Je développe des **jeux interactifs en JavaScript** et des **sites web dynamiques**.
+- 🔭 Je développe des **sites web dynamiques**.
 - 🧠 J’aime construire des projets concrets pour progresser en front-end et en algorithmique.
 - 🌍 J’explore les usages du code dans la science, l’éducation et les systèmes intelligents.
 - 🛠️ Je suis à l’aise en solo ou en équipe sur des petits projets pédagogiques.
